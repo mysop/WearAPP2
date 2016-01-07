@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">" WearAPP2"</string>
+
+    <string name="action_manual">啟動規則：人工啟動</string>
+    <string name="action_nfc">啟動規則：NFC</string>
+    <string name="action_ibeacon">啟動規則：iBeacon</string>
+    <string name="action_qrcode">啟動規則：QR Code</string>
+    <string name="action_gps">啟動規則：GPS</string>
+    <string name="action_time">啟動規則：時間</string>
+    <string name="action_auto">啟動規則：自動</string>
+
+    <string name="title">啟動My_Sop</string>
+    <string name="notification_posted">請往下滑</string>
+</resources>
